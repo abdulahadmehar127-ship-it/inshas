@@ -1,0 +1,6 @@
+{
+  "name": "Inshas",
+  "description": "A world-class premium landing page for Inshas, a Pakistani premium lifestyle & gifting brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
